@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Chatty Helpdesk for WooCommerce
- * Plugin URI:        https://github.com/samnguyen80/woocommerce-plugin
+ * Plugin URI:        https://github.com/chattynet/woocommerce-plugin
  * Description:        Connects a WooCommerce store to Chatty Helpdesk. Pushes order/customer events outbound (outbox + Action Scheduler, with retry) and executes Helpdesk commands via a poll-based queue. The plugin is outbound-only — Helpdesk never opens a connection into the store (firewall/WAF/self-signed-cert safe).
  * Version:           0.1.0
  * Requires at least: 6.0
