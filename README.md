@@ -2,6 +2,15 @@
 
 WordPress/WooCommerce plugin that connects a store to **Chatty Helpdesk**.
 
+## ⬇ Download
+
+**[Download the plugin (.zip)](https://github.com/chattynet/woocommerce-plugin/releases/latest/download/chatty-helpdesk-woocommerce.zip)** — always the latest release.
+
+Then in WP Admin: **Plugins → Add New → Upload Plugin → Upload → Activate**, then
+**WooCommerce → Chatty Helpdesk** and paste your connection token.
+
+All versions: [Releases](https://github.com/chattynet/woocommerce-plugin/releases).
+
 ## Design (locked 2026-08-24)
 
 - **Outbound-only (A2).** The plugin never accepts inbound connections from Helpdesk.
